@@ -107,7 +107,7 @@ Configure da seguinte maneira:
 
 Confirme e vá para a próxima etapa, em seguida configure como no vídeo:
 
-<video controls src="assets/video1.mp4" title="Title"></video>
+https://github.com/Caionicky/LabDio_CognitiveSearch_Cert-AI900/assets/64107747/eb5b8ecb-1ef5-4761-874d-7098376e74c9
 
 Faça como na imagem abaixo:
 
