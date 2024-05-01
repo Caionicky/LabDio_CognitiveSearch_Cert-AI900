@@ -107,7 +107,7 @@ Configure da seguinte maneira:
 
 Confirme e vá para a próxima etapa, em seguida configure como no vídeo:
 
-<video controls src="video1.mp4" title="Title"></video>
+<video controls src="assets/video1.mp4" title="Title"></video>
 
 Faça como na imagem abaixo:
 
